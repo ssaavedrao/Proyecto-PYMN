@@ -28,4 +28,10 @@ Repositorio con archivos de practicas
 
 **Derivacion numerica** Por medio de la derivada de una funcion obtuvimos la tangente de la recta de un punto f(x) utilizando la representacion de las series de taylor 
 
-[Practica 10](https://github.com/ssaavedrao/Proyecto-PYMN/blob/main/Practica%2010%20-%20Sebastian%20Saavedra.cpp)
+[Laboratorio 10](https://github.com/ssaavedrao/Proyecto-PYMN/blob/main/Practica%2010%20-%20Sebastian%20Saavedra.cpp)
+
+**Metodos ecuaciones lineales** Solucionamos ecuaciones de primer grado mediante el metodo de Jacobi y Gauss Seidel 
+
+[Laboratorio 11](https://github.com/ssaavedrao/Proyecto-PYMN/tree/main/Laboratorio%2011)
+
+
