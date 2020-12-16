@@ -24,7 +24,7 @@ Repositorio con archivos de practicas
 
 5.**Metodos cerrados** En esta practica aprendimos a obetener la estimacion de la raiz de una funcion atraves del metodo de la biseccion y de la falsa posicion
 
-5.[Laboratorio 5](https://github.com/ssaavedrao/Proyecto-PYMN/tree/main/L5-Sebastian%20Saavedra)
+[Laboratorio 5](https://github.com/ssaavedrao/Proyecto-PYMN/tree/main/L5-Sebastian%20Saavedra)
 
 **Derivacion numerica** Por medio de la derivada de una funcion obtuvimos la tangente de la recta de un punto f(x) utilizando la representacion de las series de taylor 
-6.[Practica 10](https://github.com/ssaavedrao/Proyecto-PYMN/blob/main/Practica%2010%20-%20Sebastian%20Saavedra.cpp)
+[Practica 10](https://github.com/ssaavedrao/Proyecto-PYMN/blob/main/Practica%2010%20-%20Sebastian%20Saavedra.cpp)
