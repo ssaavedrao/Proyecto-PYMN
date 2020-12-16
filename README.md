@@ -6,23 +6,23 @@
 Repositorio con archivos de practicas 
 
 
-1.**Introduccion a variables**  se practico la syntaxys y la declaracion de variables y constantes declarandolas utilizando elementos de entrada y salida de datos.
+**Introduccion a variables**  se practico la syntaxys y la declaracion de variables y constantes declarandolas utilizando elementos de entrada y salida de datos.
 
 [Laboratorio 1](https://github.com/ssaavedrao/Proyecto-PYMN/tree/main/Laboratorio%201)
 
-2. **Estructuras de control** Se practicaron las estructuras de control selectivas las cuales nos ayudan a resolver un problema dependiendo las variables que surjan durante la ejecucion del programa.
+**Estructuras de control** Se practicaron las estructuras de control selectivas las cuales nos ayudan a resolver un problema dependiendo las variables que surjan durante la ejecucion del programa.
 
 [Laboratorio 2](https://github.com/ssaavedrao/Proyecto-PYMN/tree/main/Laboratorio%202)
 
-3. **Estructuras repetitivas** Se aplicaron conocimientos de progamacion para el uso de ciclos,los ciclos son importantes para cálculos que requieren pasos repetitivos y el procesamiento constante de varias entradas de datos.
+**Estructuras repetitivas** Se aplicaron conocimientos de progamacion para el uso de ciclos,los ciclos son importantes para cálculos que requieren pasos repetitivos y el procesamiento constante de varias entradas de datos.
 
 [Laboratorio 3](https://github.com/ssaavedrao/Proyecto-PYMN/tree/main/Laboratorio%203)
 
-4. **Funciones, arreglos y matrices** En esta practica se cumplio con el objetivo de separar cualquier ejercicio o problema que tenemos en partes creando funciones a la vez que aprendimos a guardar varios datos segun las iteraciones en arreglos o matrices dependiendo si son caracteres o numeros
+**Funciones, arreglos y matrices** En esta practica se cumplio con el objetivo de separar cualquier ejercicio o problema que tenemos en partes creando funciones a la vez que aprendimos a guardar varios datos segun las iteraciones en arreglos o matrices dependiendo si son caracteres o numeros
 
 [Laboratorio 4](https://github.com/ssaavedrao/Proyecto-PYMN/tree/main/Laboratorio%204)
 
-5.**Metodos cerrados** En esta practica aprendimos a obetener la estimacion de la raiz de una funcion atraves del metodo de la biseccion y de la falsa posicion
+**Metodos cerrados** En esta practica aprendimos a obetener la estimacion de la raiz de una funcion atraves del metodo de la biseccion y de la falsa posicion
 
 [Laboratorio 5](https://github.com/ssaavedrao/Proyecto-PYMN/tree/main/L5-Sebastian%20Saavedra)
 
