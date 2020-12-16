@@ -6,7 +6,8 @@
 Repositorio con archivos de practicas 
 
 
-1.[Laboratorio 1](https://github.com/ssaavedrao/Proyecto-PYMN/tree/main/Laboratorio%201)
+1.En esta practica se practico la syntaxys y la declaracion de variables y constantes declarandolas y utilizando elementos de entrada y salida de datos.
+[Laboratorio 1](https://github.com/ssaavedrao/Proyecto-PYMN/tree/main/Laboratorio%201)
 
 2.[Laboratorio 2](https://github.com/ssaavedrao/Proyecto-PYMN/tree/main/Laboratorio%202)
 
